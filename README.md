@@ -1,6 +1,11 @@
 # Task Manager App
 
-![App Screenshot](screenshot.png)
+## Demo: 
+
+
+https://github.com/user-attachments/assets/7df18cab-fdd3-41ef-b5a2-88eef73e81b5
+
+
 
 A full-stack task management application with React Native (Expo) frontend and Node.js/MongoDB backend.
 
